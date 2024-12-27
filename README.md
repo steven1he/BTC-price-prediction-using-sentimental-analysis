@@ -1,14 +1,26 @@
-# **BTC Price Prediction Using Sentiment Analysis**
+# **Solution to MATLAB and Simulink Challenge project <'239'> <'Sentiment Analysis in Cryptocurrency Trading'>**
 
-## **Overview**
+## **Program Link**  
+
+https://github.com/steven1he/BTC-price-prediction-using-sentimental-analysis
+## **Program details**  
+
+
+
+### **Overview**
 This project aims to predict Bitcoin (BTC) prices using sentiment analysis of cryptocurrency-related text data, combined with historical price data. The workflow includes data preprocessing, feature engineering, model training, and evaluation.
+
+### **demo**
+<p align="center">
+    <img alt="result picture" src="https://github.com/steven1he/BTC-price-prediction-using-sentimental-analysis/blob/main/result_picture/prediction_vs_true.png" />
+</p>
 
 ---
 
-## **Workflow, Directory Structure, Requirements, Usage, and Results**
+### **Workflow, Directory Structure, Requirements, Usage, and Results**
 
 ```plaintext
-Workflow:
+
 1. Download Datasets:
    - BTC Tweets Dataset: https://www.kaggle.com/datasets/kaushiksuresh147/bitcoin-tweets
    - BTC Historical Price Data: https://www.kaggle.com/datasets/mczielinski/bitcoin-historical-data#coinbaseUSD_1-min_data_2014-12-01_to_2019-01-09.csv
