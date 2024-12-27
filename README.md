@@ -10,7 +10,7 @@ https://github.com/steven1he/BTC-price-prediction-using-sentimental-analysis
 ### **Overview**
 This project aims to predict Bitcoin (BTC) prices using sentiment analysis of cryptocurrency-related text data, combined with historical price data. The workflow includes data preprocessing, feature engineering, model training, and evaluation.
 
-### **demo**
+### **Demo**
 <p align="center">
     <img alt="result picture" src="https://github.com/steven1he/BTC-price-prediction-using-sentimental-analysis/blob/main/result_picture/prediction_vs_true.png" />
 </p>
