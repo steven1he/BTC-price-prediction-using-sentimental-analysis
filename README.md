@@ -24,7 +24,7 @@ This project aims to predict Bitcoin (BTC) prices using sentiment analysis of cr
 1. Download Datasets:
    - BTC Tweets Dataset: https://www.kaggle.com/datasets/kaushiksuresh147/bitcoin-tweets
    - BTC Historical Price Data: https://www.kaggle.com/datasets/mczielinski/bitcoin-historical-data#coinbaseUSD_1-min_data_2014-12-01_to_2019-01-09.csv
-   - You can simply use the outcome 'merged_file_90days_1min(final).csv' for trianing and testing.
+   - You can simply use the outcome 'filtered_merged_sentiment_price1.csv' for trianing and testing.
 
 2. Run Sentiment Analysis:
    - Execute the script sentimental_score.m to calculate sentiment scores (e.g., maximum, average, variance) for all tweets over the past 90 days, aggregated by minute.
